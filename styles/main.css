@@ -1,0 +1,14 @@
+* {
+  margin: 0;
+}
+
+.information {
+  background-color: blue;
+  position: fixed;
+  width: 100%;
+  top: 0;
+}
+.main-text {
+  background-color: blueviolet;
+  height: 100vh;
+}
